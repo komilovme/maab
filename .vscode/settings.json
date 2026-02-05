@@ -1,0 +1,45 @@
+{
+  // 🧠 Editor basics
+  "editor.fontFamily": "JetBrains Mono, Fira Code, monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  // ⚡ Performance
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 800,
+  // 🎨 UI / Theme
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "compact",
+  // 🧹 Clean explorer
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  // 🧪 Code quality
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    // "source.fixAll": true
+  },
+  // 🐍 Python
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  // 🌐 Web dev
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  // 🔔 Notifications
+  "notifications.doNotDisturbMode": true,
+  // 🧠 Git
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false
+}
