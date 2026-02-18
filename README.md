@@ -1,2 +1,2 @@
 # maab
-This reposotory only MAAB Academy
+This reposotory only for MAAB Academy
