@@ -1,5 +1,5 @@
 # Easy Task
-n = int(input("Sonni kiriting : " ))
+n = int(input("Enter the number : " ))
 print("Zero" if n == 0 else ("Even" if n % 2 == 0 else "Odd"))
 
 # Medium tasks
