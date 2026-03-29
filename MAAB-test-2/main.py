@@ -14,7 +14,7 @@ if not find :
     print(-1)
 
 # Puzzle 2
-nums = [int(i) for i in input("Massivni space tashlab kirgizing (ex : 2 3 4 2 1 2) : ").split()]
+nums = [int(i) for i in input().split()]
 n = len(nums)
 for num in nums:
     target = n // 2
